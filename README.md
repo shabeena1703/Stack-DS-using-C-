@@ -401,9 +401,9 @@ Through this project, I gained practical experience in:
 
 ## 🧪 Result
 
-Successfully developed a **Stack Data Structure using a Singly Linked List in C++** with operations for **push, pop, peek, display, search, size, empty check, and reverse**.
+Successfully developed a **Stack Data Structure using a Singly Linked List in C++** with operations for push, pop, peek, display, search, size, empty check, and reverse.
 
-The project demonstrates practical use of **classes, pointers, dynamic memory allocation, and linked-list manipulation** in C++.
+The project demonstrates practical use of classes, pointers, dynamic memory allocation, and linked-list manipulation in C++.
 
 ---
 
