@@ -6,7 +6,7 @@
 
 ## 📝 About the Project
 
-The **Stack DS Using C++** project implements a Stack data structure using a Singly Linked List in C++.
+The **Stack DS Using C++** project implements a Stack data structure using a **Singly Linked List** in C++.
 
 A stack follows the **LIFO (Last In, First Out)** principle, which means the element inserted last is removed first.
 
@@ -164,6 +164,9 @@ Stack DS in C++/
 | Data Structure | Stack                      |
 | Linked List    | Singly Linked List         |
 | Concepts       | Classes, Objects, Pointers |
+| Memory         | Dynamic Memory Allocation  |
+| Allocation     | `new`, `delete`            |
+| Input / Output | `cin`, `cout`              |
 | Environment    | Linux / WSL                |
 | Compiler       | G++                        |
 
@@ -384,15 +387,21 @@ Program terminated successfully.
 
 ## 💡 Key Learning
 
-Through this project, I gained practical experience in Stack, Singly Linked List, Classes & Objects, Pointers, Dynamic Memory Allocation, LIFO Operations, Linked List Manipulation
-```
+Through this project, I gained practical experience in:
 
+* Stack
+* Singly Linked List
+* Classes & Objects
+* Pointers
+* Dynamic Memory Allocation
+* LIFO Operations
+* Linked List Manipulation
 
 ---
 
 ## 🧪 Result
 
-Successfully developed a **Stack Data Structure using a Singly Linked List in C++** with operations for push, pop, peek, display, search, size, empty check, and reverse.
+Successfully developed a **Stack Data Structure using a Singly Linked List in C++** with operations for **push, pop, peek, display, search, size, empty check, and reverse**.
 
 The project demonstrates practical use of **classes, pointers, dynamic memory allocation, and linked-list manipulation** in C++.
 
@@ -402,6 +411,6 @@ The project demonstrates practical use of **classes, pointers, dynamic memory al
 
 **Sk Shabeena**
 
-* 📧 Email: [skshabeena33@gmail.com]
-* 💼 LinkedIn: (https://www.linkedin.com/in/shaik-shabeena-36a7b933/)
-* 🐙 GitHub: (https://github.com/shabeena1703)
+* 📧 Email: [skshabeena33@gmail.com](mailto:skshabeena33@gmail.com)
+* 💼 LinkedIn: [Shaik Shabeena](https://www.linkedin.com/in/shaik-shabeena-36a7b933/)
+* 🐙 GitHub: [shabeena1703](https://github.com/shabeena1703)
