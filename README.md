@@ -394,7 +394,7 @@ Through this project, I gained practical experience in Stack, Singly Linked List
 
 Successfully developed a **Stack Data Structure using a Singly Linked List in C++** with operations for push, pop, peek, display, search, size, empty check, and reverse.
 
-The project demonstrates practical use of classes, pointers, dynamic memory allocation, and linked-list manipulation in C++.
+The project demonstrates practical use of **classes, pointers, dynamic memory allocation, and linked-list manipulation** in C++.
 
 ---
 
@@ -402,5 +402,6 @@ The project demonstrates practical use of classes, pointers, dynamic memory allo
 
 **Sk Shabeena**
 
-* Email: [skshabeena33@gmail.com]
-* LinkedIn: [Shaik Shabeena](https://www.linkedin.com/in/shaik-shabeena-36a7b933/)
+* 📧 Email: [skshabeena33@gmail.com]
+* 💼 LinkedIn: (https://www.linkedin.com/in/shaik-shabeena-36a7b933/)
+* 🐙 GitHub: (https://github.com/shabeena1703)
